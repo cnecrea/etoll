@@ -29,7 +29,7 @@ body:
       label: Integrarea vizată
       description: Pentru care integrare raportați problema?
       options:
-        - CNAIR eRovinieta
+        - CNAIR eTOLL
     validations:
       required: true
 
